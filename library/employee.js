@@ -3,7 +3,7 @@ class Employee {
     builder  (name, id, email) {
         this.name = name;
         this.id = id;
-        this.email = email;
+        this.email = email
     }
 
     //return name

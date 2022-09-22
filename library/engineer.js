@@ -21,6 +21,7 @@ class Engineer extends Employee {
         return 'Engineer'
     }
 
-}
+};
+//export module Engineer
+module.exports = Engineer;
 
-modules.exports = Engineer;
